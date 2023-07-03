@@ -22,29 +22,29 @@
     ],
     "technical_skills": [
         {
-            "content_1": "CSS",
-            "content_1_icons": "fa-brands fa-css3-alt fa-beat",
-            "content_1_progress": "Expert"
+            "content": "CSS",
+            "content_icons": "fa-brands fa-css3-alt fa-beat",
+            "content_progress": "Expert"
         },
         {
-            "content_2": "BOOTSTRAP",
-            "content_2_icons": "fa-brands fa-bootstrap fa-beat",
-            "content_2_progress": "Intermediate"
+            "content": "BOOTSTRAP",
+            "content_icons": "fa-brands fa-bootstrap fa-beat",
+            "content_progress": "Intermediate"
         },
         {    
-            "content_3": "HTML",
-            "content_3_icons": "fa-brands fa-html5 fa-beat",
-            "content_3_progress": "Expert"
+            "content": "HTML",
+            "content_icons": "fa-brands fa-html5 fa-beat",
+            "content_progress": "Expert"
         },
         {    
-            "content_4": "JAVASCRIPT",
-            "content_4_icons": "fa-brands fa-square-js fa-beat",
-            "content_4_progress": "Beginner"
+            "content": "JAVASCRIPT",
+            "content_icons": "fa-brands fa-square-js fa-beat",
+            "content_progress": "Beginner"
         },
         {    
-            "content_5": "VUE.JS",
-            "content_5_icons": "fa-brands fa-vuejs fa-beat",
-            "content_5_progress": "Intermediate"
+            "content": "VUE.JS",
+            "content_icons": "fa-brands fa-vuejs fa-beat",
+            "content_progress": "Intermediate"
         }
     ],
     "education": [
