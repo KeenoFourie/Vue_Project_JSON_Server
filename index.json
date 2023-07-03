@@ -2,17 +2,17 @@
     "details": [
         {
             "name": "Keeno Fourie",
-            "date of birth": "04/06/2004",
+            "date_of_birth": "04/06/2004",
             "gender": "Male",
             "location": "Athlone",
-            "cellphone number": "081 747 1270",
-            "email address": "keenofourie614@gmail.com",
-            "willing to relocate": "Yes"
+            "cellphone_number": "081 747 1270",
+            "email_address": "keenofourie614@gmail.com",
+            "willing_to_relocate": "Yes"
         }
     ],
     "passions": [
         {
-            "passion content": "My passion's include most things in the tech industry and any gadgets and electronic advancement's. I have a hobby for sports such as volleyball an basketball aswell as an interest in oudoor activities like hiking. Sketching is one of my favourites along side gaming. I spend lot's of time playing games, especially the latest games and gaming accessories out."
+            "passion_content": "My passion's include most things in the tech industry and any gadgets and electronic advancement's. I have a hobby for sports such as volleyball an basketball aswell as an interest in oudoor activities like hiking. Sketching is one of my favourites along side gaming. I spend lot's of time playing games, especially the latest games and gaming accessories out."
         }
     ],
     "soft_skills": [
@@ -44,12 +44,12 @@
     ],
     "education": [
         {
-            "primary school": "Silverlea Primary School",
-            "high school": "Alexander Sinton Secondary School",
+            "primary_school": "Silverlea Primary School",
+            "high_school": "Alexander Sinton Secondary School",
             "currently": "Life Choices Coding Academy"
         }
     ],
-    "work experience": [
+    "work_experience": [
         {
             "work": "Campus Key- Painter (2022-2023)"
         }
