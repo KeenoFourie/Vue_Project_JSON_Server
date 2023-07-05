@@ -58,5 +58,75 @@
         {
             "work": "Campus Key- Painter (2022-2023)"
         }
+    ],
+    "testimonials": [
+        {
+            "name": "Seth Kallis (Lecturer)",
+            "content": "Keeno is dedicated, hard working and a team player. He works well with his peers and performs well on his projects. He has a good understanding of web development and would be a valuable addition to any team that is lucky enough to have him.",
+            "image": "https://i.postimg.cc/m27mzjsC/Seth-Kallis.jpg"
+        },
+        {
+            "name": "Mujahid Fisher (Peer)",
+            "content": "Keeno is a pupil who works hard. He has a can do attitude and never gives up on a challenge. There is many good attribute that Keeno has and it shows in his everyday life. As a employee he will without a doubt server as an asset.",
+            "image": "https://i.postimg.cc/XJFCH2xg/Mujahid-Fisher.png"
+        },
+        {
+            "name": "Alonso Cupido (Peer)",
+            "content": "Keeno is a very great person he works well in a team and also works really hard , and he is always punctual. He has a good understanding of IT and web development, he would be a great asset to your team and a very reliable team member. Any team would be lucky if you were to accept him.",
+            "image": "https://i.postimg.cc/5tQYy7cM/Alonso-Cupido.jpg"
+        },
+        {
+            "name": "Taflynne Summer Petersen (Peer)",
+            "content": "Keeno Fourie is a smart person, who enjoys to code and knows what he is doing. He is able to figure out errors quickly. He is determined to his career in web development, I count as a witness. He understands his work and content well as he is able to explain in a very simplistic way. He is very helpful and guides his peers to the right solution when they need help with their code. Keeno is kind and enjoys to code. He would be an asset to any field and career he works in.",
+            "image": "https://i.postimg.cc/Gm8hx4XF/Taflynne-Summer-Petersen.jpg"
+        },
+        {
+            "name": "Codi Kader (Peer)",
+            "content": "Keeno Fourie, I love that man. He is so down to earth and kind. He can put a smile on anyones face with just a few words. He is really passionate about web development and his craft. Keeno is always willing to help with problems relating to any type of work he can help with. He is definitely a great addition to any team or company. He works really well in a team and can bring a team alive and help them in any way possible. However, if needed he works really well alone as well.",
+            "image": "https://i.postimg.cc/PrcdJtdP/Codi-Kader.jpg"
+        },
+        {
+            "name": "Uthmaan Samsodien (Peer)",
+            "content": "Keeno is a very determined being, always focused and wanting to get things done on time. This is an excellent trait to have as web developer as you will always be on par with deadlines. Keeno is very good when working alone and even better when he is put into a group. He is always trying to upskill his self by asking questions or learning from his peers, this making him a very hard working being. He is very good in HTML and CSS. Keeno is kind and is good with working with people.",
+            "image": "https://i.postimg.cc/tgxzdcNk/IMG-6957-1.jpg"
+        }
+    ],
+    "projects": [
+        {
+            "name": "Calendar Project",
+            "image": "https://i.postimg.cc/05FRvVks/Calendar.png",
+            "github_link": "https://github.com/KeenoFourie/calendar.git",
+            "netlify_link": "https://resplendent-cactus-87b369.netlify.app/"
+        },
+        {
+            "name": "First Portfolio Website",
+            "image": "https://i.postimg.cc/dDPxyS3Z/Website.png",
+            "github_link": "https://github.com/KeenoFourie/portfolio2004.git",
+            "netlify_link": "https://unique-druid-383b37.netlify.app/"
+        },
+        {
+            "name": "Animation Website",
+            "image": "https://i.postimg.cc/prNwfd1d/website-2.png",
+            "github_link": "https://github.com/KeenoFourie/My-Website.git",
+            "netlify_link": "https://jolly-naiad-6918b4.netlify.app/"
+        },
+        {
+            "name": "Javascript KARZ.MOTOR Website",
+            "image": "https://i.postimg.cc/Dy0rrcL8/Screenshot-2023-07-05-095746.png",
+            "github_link": "https://github.com/KeenoFourie/JavascriptProject_KARZ.MOTOR.git",
+            "netlify_link": "https://curious-faloodeh-a276bf.netlify.app/"
+        },
+        {
+            "name": "To-Do List",
+            "image": "https://i.postimg.cc/90ZBvdtG/Screenshot-2023-07-05-095925.png",
+            "github_link": "https://github.com/KeenoFourie/To-DoListNew.git",
+            "netlify_link": "https://relaxed-naiad-6a364a.netlify.app/"
+        },
+        {
+            "name": "Temperature Converter",
+            "image": "https://i.postimg.cc/wBY9zgpL/Screenshot-2023-07-05-100136.png",
+            "github_link": "https://github.com/KeenoFourie/TemperatureConverter.git",
+            "netlify_link": "https://cerulean-bienenstitch-ac5a2d.netlify.app/"
+        }
     ]
 }
